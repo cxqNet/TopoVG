@@ -25,8 +25,8 @@ Data/
 │       └── test.json
 └── RISBench/
     ├── JPEGImages/
-    │   ├── 0001_01_01.png
-    │   ├── 0001_01_02.png
+    │   ├── train_0_0.png
+    │   ├── train_0_2.png
     │   └── ...
     └── split/
         ├── train.json
