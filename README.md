@@ -38,8 +38,8 @@ You can obtain the well-organized **RRSIS-D** and **RISBench** datasets from [[D
 
 ## Overview
 
-<p align="middle">
-    <img src="Fig/pic6.jpeg" style="width:800px; height:250px;">
+<p align="center">
+    <img src="Fig/pic6.png" width="800">
 </p>
 
 Remote sensing visual grounding **(RSVG)** aims to localize target objects in complex remote sensing imagery according to natural-language referring expressions, and has emerged as a key frontier task for advancing remote sensing image interpretation and open-vocabulary interactive understanding. Existing fully supervised methods typically rely on large-scale annotated data for training, and often exhibit limited generalization when confronted with cross-dataset shifts, unseen categories, and complex scene distributions. This restricts their applicability to remote sensing scenarios characterized by diverse object categories, intricate spatial relationships, and cross-scene applications. To address these limitations, we propose **TopoVG**, a zero-shot and training-free framework for open-vocabulary remote sensing visual grounding, which exploits attention priors embedded in a frozen text-to-image diffusion model to localize remote sensing targets without annotated training data. 
