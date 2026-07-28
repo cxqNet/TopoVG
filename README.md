@@ -1,10 +1,9 @@
 # Zero-Shot Open-Vocabulary Visual Grounding via Diffusion-Based Spatial-Topological Routing in Remote Sensing Images
 
 
+🌍 This is the offical repo for paper **"Zero-Shot Open-Vocabulary Visual Grounding via Diffusion-Based Spatial-Topological Routing in Remote Sensing Images"**. 
 
-🏆This is the offical repo for paper **"Zero-Shot Open-Vocabulary Visual Grounding via Diffusion-Based Spatial-Topological Routing in Remote Sensing Images"**. 
-
-⚙The source code and datasets are currently under preparation and will be open-sourced soon...
+The source code and datasets are currently under preparation and will be open-sourced soon...
 
 ## Dataset Optimization
 - We standardize the format of **RRSIS-D** and **RISBench** to facilitate data analysis for visual localization tasks. Both datasets support **xyxy** and **xywh** bounding box formats.
