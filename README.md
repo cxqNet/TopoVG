@@ -3,6 +3,10 @@
 
 🌍 This is the offical repo for paper **"Zero-Shot Open-Vocabulary Visual Grounding via Diffusion-Based Spatial-Topological Routing in Remote Sensing Images"**. 
 
+🏛️: [智能感知与图像理解教育部重点实验室](https://ipiu.xidian.edu.cn/)
+
+👨‍🎓：Puhua Chen , Xuqiang Cao , Shasha Mao , Yuwei Guo , Jiadong Lin , Fang Liu , and Licheng Jiao
+
 The source code and datasets are currently under preparation and will be open-sourced soon...
 
 ## Dataset Optimization
