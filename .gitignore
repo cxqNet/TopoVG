@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+models/
+outputs/
+Data/**/JPEGImages/
+Data/**/features/
+*.pt
+*.pth
+*.safetensors
+*.tmp
+*.bak
+*.fill.lock
+.generate.lock
+*.fill_failures.json
