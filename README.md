@@ -5,7 +5,7 @@ This is the offical repo for paper **"Zero-Shot Open-Vocabulary Visual Grounding
 
 Lab: 智能感知与图像理解教育部重点实验室
 
-Authors: Puhua Chen , Xuqiang Cao , Shasha Mao , Yuwei Guo , Jiadong Lin , Fang Liu , and Licheng Jiao
+Authors: Puhua Chen , Xuqiang Cao , Shasha Mao , Yuwei Guo , Jiadong Lin ,Yu Qiu，Fang Liu , and Licheng Jiao
 
 
 
