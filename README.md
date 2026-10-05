@@ -16,25 +16,17 @@ The source code and datasets are currently under preparation and will be open-so
 **Dataset Directory Structure**
 
 ```text
-Data/
-├── RRSIS-D/
-│   ├── JPEGImages/
-│   │   ├── 00001.jpg
-│   │   ├── 00002.jpg
-│   │   └── ...
-│   └── split/
-│       ├── train.json
-│       ├── val.json
-│       └── test.json
-└── RISBench/
+
+Data/RRSIS-D/
    ├── JPEGImages/
-   │   ├── train_0_0.png
-   │   ├── train_0_2.png
+   │   ├── 03600.jpg
    │   └── ...
-   └── split/
-       ├── train.json
-       ├── val.json
-       └── test.json
+   ├── split/
+   │   └── test.json
+   ├── features/
+   │   ├── 03600_000.pt
+   │   └── ...
+   └── JsonTree.json
 ```
 
 You can obtain the well-organized **RRSIS-D** and **RISBench** datasets from [[Dataset Link]](https://pan.baidu.com/s/1fUBm1JrR87bUVIvnMSrVRQ?pwd=v3zx).
